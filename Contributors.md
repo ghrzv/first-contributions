@@ -23,6 +23,7 @@ happy# Contributors
 - [Anil Sangwa] (https://github.com/anilsangwa)
 - [Gill B] (https://github.com/blackg33)
 - [Nathan Curry] (https://github.com/nathancurry)
+- [Ghenea Razavn] (https://github.com/ghrzv)
 - [Parzi68] (https://github.com/Parzi68)
 - [Andrew Kiprotich Kimwetich] (https://github.com/Skipper-kenya)
 - [Mo11ov] (https://github.com/Mo11ov)
